@@ -58,4 +58,89 @@
             margin-bottom: 30px;
             line-height: 1.6;
             padding: 0 10px;
+        }
+        .links-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            width: 100%;
+        }
+        .link-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #1C2541 0%, #111827 100%);
+            border: 1px solid rgba(58, 134, 255, 0.3);
+            color: #ffffff;
+            padding: 16px 20px;
+            border-radius: 14px;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .link-btn:hover {
+            background: linear-gradient(135deg, #3A86FF 0%, #2563EB 100%);
+            border-color: #3A86FF;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 15px rgba(58, 134, 255, 0.3);
+        }
+        .link-btn.primary {
+            background: linear-gradient(135deg, #3A86FF 0%, #1D4ED8 100%);
+            border-color: #3A86FF;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 12px;
+            color: #64748B;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div style="font-size: 50px; margin-bottom: 15px;">🌐</div>
         
+        <h1>Samir Rafaa</h1>
+        <p class="bio">أروي القصص من الصوت والصورة، وأحول اللحظات إلى حكايات مؤثرة بلغَات متعددة وبأسلوب فريد.</p>
+
+        <div class="links-list">
+            <!-- رابط مقال تطبيق Playout التحليلي (أول زر يظهر للزائر) -->
+            <a href="playout-article.html" target="_blank" class="link-btn primary">
+                📱 تحليل تطبيق Playout واقتصاد المكافآت
+            </a>
+
+            <!-- رابط فيسبوك -->
+            <a href="https://www.facebook.com" target="_blank" class="link-btn">
+                📘 تابعني على فيسبوك
+            </a>
+
+            <!-- رابط المدونة والقصص -->
+            <a href="https://samir-rafaa-official.blogspot.com/2026/09/blog-post.html" target="_blank" class="link-btn">
+                📖 قصصي ومدونتي (أفكار DIY والمشاريع)
+            </a>
+
+            <!-- رابط السيرة الذاتية EverybodyWiki -->
+            <a href="https://en.everybodywiki.com/Samir_Rafaa" target="_blank" class="link-btn">
+                🌍 سيرتي الذاتية الرسمية (EverybodyWiki)
+            </a>
+
+            <!-- حساب تيك توك الأول -->
+            <a href="https://www.tiktok.com/@samir_rafaa7" target="_blank" class="link-btn">
+                🎵 حسابي على TikTok (samir_rafaa7)
+            </a>
+
+            <!-- حساب تيك توك الثاني -->
+            <a href="https://www.tiktok.com/@algerian_investor" target="_blank" class="link-btn">
+                💼 حسابي على TikTok (Algerian Investor)
+            </a>
+        </div>
+
+        <footer>
+            © 2026 Samir Rafaa. All Rights Reserved.
+        </footer>
+    </div>
+
+</body>
+</html>
