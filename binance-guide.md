@@ -21,7 +21,7 @@ draft: false
 يمكنك الانتقال مباشرة إلى منصة بينانس عبر الزر أدناه للبدء واستغلال العرض:
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=ar&ref=GRO_28502_LX23X&utm_source=referral_entrance" target="_blank" style="background-color: #F0B90B; color: #000; padding: 12px 25px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=ar&ref=GRO_28502_LX23X&utm_source=referral_entrance" target="_blank" style="background-color: #F0B90B; color: #000; padding: 14px 28px; text-decoration: none; font-weight: bold; border-radius: 8px; font-size: 18px; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     سجل الآن في Binance واكسب المكافآت 🎯
   </a>
 </div>
@@ -62,7 +62,7 @@ draft: false
 ---
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=ar&ref=GRO_28502_LX23X&utm_source=referral_entrance" target="_blank" style="background-color: #F0B90B; color: #000; padding: 12px 25px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=ar&ref=GRO_28502_LX23X&utm_source=referral_entrance" target="_blank" style="background-color: #F0B90B; color: #000; padding: 14px 28px; text-decoration: none; font-weight: bold; border-radius: 8px; font-size: 18px; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     انضم إلى Binance الآن 🚀
   </a>
 </div>
